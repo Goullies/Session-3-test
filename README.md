@@ -19,7 +19,8 @@ In addition to their food and beverage services, CommunityFi has expanded their 
 Competitors in the social application of similar technology roll outs are very few and far between. It appears that the Not-for-profit take up of leading edge technology is low. With the ever reducing cost of monitoring and compliance, this may not continue to be the case. Researching competitors in the not for profit field was challenging. One company that has been deploying similar services such as monitoring for food safety applications including intelligent alerts did present many similarities.
 ConnectedFRESH, a For-profit company, offers very similar services with a focus on analysis and specialised solutioning using the LoRaWan network and AWS for services for analysis and dashboard presentations. This is the only near match to Communityfi and is marketed at the higher end producers and transport operators. I would consider that there is no competitor aimed at helping low budget community organisations such as food backs and soup kitchens in the market currently
 
-Exciting Communityfi stats and directions;
+# Exciting Communityfi stats and directions;
+
 Communityfi sensors: currently protecting 1000 meals per week
 A Communityfi key goal is to protect 250,000 meals per week at no cost while reducing food loss and waste
 Developed motion sensors, room sensors for theft of goods and vacant property monitoring (even with no connected power)
