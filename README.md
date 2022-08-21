@@ -2,7 +2,7 @@
 
 ## Enterprise solutions: Using IoT protocals to benfit the greater community
 
-![Communityfi Logo doc](Images/Communityfi Logo.png)
+![Communityfi Logo doc](Images/Communityfi_Logo.png)
 
 ## Overview and Origin
 
@@ -31,7 +31,7 @@ Wearables market is being developed to keep elderly safe or for pet tracking
 CommunityFi for all… on boarding with dashboards
 Sensor as a service roll out to any community member for use through the Helium network
 
-![Communityfi Give Local doc](Images/Communityfi Ad.png)
+![Communityfi Give Local doc](Images/Communityfi_Ad.png)
 
 Communityfi’s original business case is based on the rollout of antennas to be used as hotspots that act as nodes. These provide connectivity to nearby devices earning HNT tokens to be used or exchanged. The Helium network is ideally suited as it does not have data caps, over-charges or sim cards to operate and is reported to provide up to 200 times farther connectivity using a combination of LoRaWan and Helium’s long Fi wireless technology.
 
@@ -41,7 +41,7 @@ HNT token are rewarded to hotspots which are paid out based on the volume of dat
 
 ## Next Steps
 
-![Helium Token doc](Images/Helium token.png)
+![Helium Token doc](Images/Helium_token.png)
 
 Communityfi should be looking to advance their offerings in line with the advancing Helium network protocols of HIP 51 -53 which is being developed and tested for existing infrastructure including the cellular 5G network. Continuing on their proven system with the added flexibility of long range wireless technology could open up further agriculture opportunities in the for profit space. Board acre farming applications include microbial and moisture monitoring would open an automated. Currently an expensive and manual process, an automated service could save the tight farming budgets up to $50,000pa.
 Communityfi’s “Sensors as a service” business model should assess the viability of integrated LoRaWan to cellular connectivity hubs for distribution in geographically challenged area such as mountainous or vast rural areas. Wireless technology is excellent provided there is no terrain conditions blocking line of sight for the radio signal. Adapting into other networks such as cellular gives a greater application of the current business model.
